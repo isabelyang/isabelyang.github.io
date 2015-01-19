@@ -1,0 +1,117 @@
+#name-header{
+	font-size: 50px;
+	
+	color: #816;
+	padding-left: 20px;
+	/* border-bottom: 5px; */
+	/* margin-top: 50px; */
+	/* margin: 5px 20px 50px 30px; */
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+	/*position: fixed; */
+	cursor: pointer;
+}
+
+#name-header:hover{
+	color: #000;
+
+}
+
+#content{
+	margin-right: auto;
+	margin-left: auto;
+	width: 960px;
+}
+
+#aboutme-image{
+	width: 250px;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	cursor: pointer;
+	position:relative;
+	top: 0px;
+	left: -364px;
+}
+
+#aboutme-image2{
+	width: 250px;
+	margin-top: 85;
+	margin-right: 100;
+	position: relative;
+	cursor: pointer;
+	top: 0px;
+}
+
+
+#pastwork-image{
+	width: 250px;
+	margin-top: 10px;
+	margin-right: 10px;
+	position: relative;
+	cursor: pointer;
+	top: -345px;
+	left: 260px;
+}
+
+#pastwork-image2{
+	width: 250px;
+	margin-top: 85;
+	margin-right: 100;
+	position: relative;
+	cursor: pointer;
+	top: 0px;
+	left: -368;
+}
+
+#resume-image{
+	width: 250px;
+	margin-top: 10px;
+	margin-right: 10px;
+	cursor: pointer;
+	position:relative;
+	top: -346px;
+	left: -98px;
+}
+
+#resume-image2{
+	width: 250px;
+	margin-top: 85;
+	margin-right: 100;
+	cursor: pointer;
+	position:relative;
+	top: -346px;
+	left: 256;
+}
+
+#contact-image{
+	width: 250px;
+	margin-top: 10px;
+	margin-left: 10px;
+	cursor: pointer;
+	position:relative;
+	top: -690px;
+	left: 507px;
+}
+
+#contact-image2{
+	width: 250px;
+	margin-top: 10px;
+	margin-left: 10px;
+	cursor: pointer;
+	position:relative;
+	top: -690px;
+	left: 771px;
+}
+
+
+
+.title-images{
+
+}
+
+#image-container{
+	margin-left: auto;
+	margin-right: auto;
+}
