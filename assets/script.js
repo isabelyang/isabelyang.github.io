@@ -26,9 +26,9 @@ $("#contact-image").hover(function(){
 });
 
 $("#home-button").hover(function(){
-    $(this).stop().fadeTo(400, 0);
+    $(this).stop().fadeTo(50, 0);
 }, function(){
-    $(this).stop().fadeTo(300, 1);
+    $(this).stop().fadeTo(50, 1);
 });
 
 
