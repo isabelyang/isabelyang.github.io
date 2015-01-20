@@ -171,11 +171,19 @@ a:hover{
 	font-size: 20px;
 	font-family: 'Josefin Sans', sans-serif;
 	color: #000;
-	margin-top: 100px;
+	margin-top: 50px;
 	margin-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 	width: 650px;
+}
+
+#aboutme-panel{
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	top: 25px;
+	width: 170;
 }
 
 #aboutme-bar{
