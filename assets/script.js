@@ -31,7 +31,23 @@ $("#home-button").hover(function(){
     $(this).stop().fadeTo(50, 1);
 });
 
+$("#mobileapp-panel").hover(function(){
+    $(this).stop().fadeTo(400, 0);
+}, function(){
+    $(this).stop().fadeTo(300, 1);
+});
 
+$("#graphicdesign-panel").hover(function(){
+    $(this).stop().fadeTo(400, 0);
+}, function(){
+    $(this).stop().fadeTo(300, 1);
+});
+
+$("#layoutdesign-panel").hover(function(){
+    $(this).stop().fadeTo(400, 0);
+}, function(){
+    $(this).stop().fadeTo(300, 1);
+});
 
 
 

@@ -252,4 +252,55 @@ a:hover{
 	margin-left: auto;
 	margin-right: auto;
 	width: 525px;
+	margin-bottom: 50px;
 }
+
+#mobileapp-panel{
+	cursor: pointer;
+	position:relative;
+	top: 0px;
+}
+
+#mobileapp-panel2{
+	position: relative;
+	cursor: pointer;
+	top: 0px;
+	left: 204px;
+
+}
+
+#graphicdesign-panel{
+	cursor: pointer;
+	position:relative;
+	top: -204px;
+	left: -4px;
+}
+
+#graphicdesign-panel2{
+	position: relative;
+	cursor: pointer;
+	left: -412;
+}
+
+#layoutdesign-panel{
+	cursor: pointer;
+	position:relative;
+	top: -204px;
+	left: 4px;
+}
+
+#layoutdesign-panel2{
+	position: relative;
+	cursor: pointer;
+	top: -204;
+	left: 208;
+
+}
+
+#pastwork-container{
+	margin-left: auto;
+	margin-right: auto;
+	width: 608;
+
+}
+
