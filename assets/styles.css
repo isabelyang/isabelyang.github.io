@@ -45,16 +45,6 @@ a:hover{
 	width: 50%;
 }
 
-#home-button{
-	font-size: 30px;
-	font-family: 'Josefin Sans', sans-serif;
-	margin-top: 10px;
-	margin-right: 10px;
-	position: fixed;
-	cursor: pointer;
-	top: 50px;
-	left: 50px;
-}
 
 #home-button:hover{
 	color: #CCC;
@@ -167,6 +157,16 @@ a:hover{
 	height: 300px;
 }
 
+#home-button{
+	margin-top: 100px;
+	margin-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	top: 0px;
+	left: -104px;
+}
+
 #biography{
 	font-size: 20px;
 	font-family: 'Josefin Sans', sans-serif;
@@ -176,4 +176,72 @@ a:hover{
 	margin-left: auto;
 	margin-right: auto;
 	width: 50%;
+}
+
+#aboutme-bar{
+	font-size: 20px;
+	font-family: 'Josefin Sans', sans-serif;
+	color: #000;
+	margin-top: 100px;
+	margin-bottom: 0px;
+	cursor: pointer;
+	position:relative;
+	top: -15px;
+	left: -100px;
+}
+
+#aboutme-bar:hover{
+	color: #CCC;
+}
+
+#pastwork-bar{
+	font-size: 20px;
+	font-family: 'Josefin Sans', sans-serif;
+	color: #000;
+	margin-top: 100px;
+	margin-bottom: 0px;
+	position:relative;
+	top: -15px;
+	left: -50px;
+
+}
+
+#pastwork-bar:hover{
+	color: #CCC;
+}
+
+#resume-bar{
+	font-size: 20px;
+	font-family: 'Josefin Sans', sans-serif;
+	color: #000;
+	margin-top: 100px;
+	margin-bottom: 0px;
+	position:relative;
+	top: -15px;
+	left: -50px;
+}
+
+#resume-bar:hover{
+	color: #CCC;
+}
+
+#contact-bar{
+	font-size: 20px;
+	font-family: 'Josefin Sans', sans-serif;
+	color: #000;
+	margin-top: 100px;
+	margin-bottom: 0px;
+	position:relative;
+	top: -34px;
+	left: 520px;
+}
+
+#contact-bar:hover{
+	color: #CCC;
+}
+
+#bar-container{
+	margin-left: auto;
+	margin-right: auto;
+	width: 525px;
 }
