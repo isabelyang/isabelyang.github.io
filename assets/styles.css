@@ -176,7 +176,11 @@ a:hover{
 	margin-left: auto;
 	margin-right: auto;
 	width: 650px;
+	/*
+	background-color: #ccc;
+	*/
 }
+
 
 #aboutme-panel{
 	position: relative;
@@ -251,7 +255,8 @@ a:hover{
 	margin-left: auto;
 	margin-right: auto;
 	width: 525px;
-	margin-bottom: 50px;
+	margin-bottom: 20px;
+	margin-top: 50px;
 }
 
 #mobileapp-panel{
@@ -293,6 +298,36 @@ a:hover{
 	cursor: pointer;
 	top: -204;
 	left: 208;
+
+}
+
+#websitedesign-panel{
+	cursor: pointer;
+	position:relative;
+	top: -190px;
+	left: -104px;
+}
+
+#websitedesign-panel2{
+	position: relative;
+	cursor: pointer;
+	top: -189px;
+	left: 100px;
+
+}
+
+#researchprojects-panel{
+	cursor: pointer;
+	position:relative;
+	top: -394px;
+	left: 309px;
+}
+
+#researchprojects-panel2{
+	position: relative;
+	cursor: pointer;
+	top: -190px;
+	left: -99px;
 
 }
 

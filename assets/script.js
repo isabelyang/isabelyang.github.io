@@ -49,8 +49,17 @@ $("#layoutdesign-panel").hover(function(){
     $(this).stop().fadeTo(300, 1);
 });
 
+$("#websitedesign-panel").hover(function(){
+    $(this).stop().fadeTo(400, 0);
+}, function(){
+    $(this).stop().fadeTo(300, 1);
+});
 
-
+$("#researchprojects-panel").hover(function(){
+    $(this).stop().fadeTo(400, 0);
+}, function(){
+    $(this).stop().fadeTo(300, 1);
+});
 
 
 
