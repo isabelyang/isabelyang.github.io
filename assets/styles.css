@@ -367,7 +367,7 @@ a:hover{
 	margin-left: auto;
 	margin-right: auto;
 	position:relative;
-	left: 135px;
+	left: -44px;
 }
 
 #linkedin2{
@@ -375,7 +375,7 @@ a:hover{
 	margin-left: auto;
 	margin-right: auto;
 	position:relative;
-	left: 219px;
+	left: 40px;
 }
 
 #github{
@@ -383,7 +383,7 @@ a:hover{
 	margin-left: auto;
 	margin-right: auto;
 	position:relative;
-	left: 50px;
+	left: -124px;
 }
 
 #github2{
@@ -391,7 +391,7 @@ a:hover{
 	margin-left: auto;
 	margin-right: auto;
 	position:relative;
-	left: 134;
+	left: -40px;
 }
 
 #pinterest{
@@ -399,7 +399,7 @@ a:hover{
 	margin-left: auto;
 	margin-right: auto;
 	position:relative;
-	left: 220px;
+	left: 36px;
 }
 
 #pinterest2{
@@ -407,7 +407,7 @@ a:hover{
 	margin-left: auto;
 	margin-right: auto;
 	position:relative;
-	left: 304px;
+	left: 120px;
 }
 
 #final-greeting{
@@ -419,5 +419,11 @@ a:hover{
 	margin-left: auto;
 	margin-right: auto;
 	width: 370px;
+}
+
+#contact-container{
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
 }
 
