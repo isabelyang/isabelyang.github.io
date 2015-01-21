@@ -183,7 +183,7 @@ a:hover{
 	position: relative;
 	margin-left: auto;
 	margin-right: auto;
-	width: 170;
+	width: 200px;
 }
 
 #aboutme-bar{
@@ -226,7 +226,7 @@ a:hover{
 	margin-bottom: 0px;
 	position:relative;
 	top: -15px;
-	left: -50px;
+	left: -40px;
 }
 
 #resume-bar:hover{
@@ -241,7 +241,7 @@ a:hover{
 	margin-bottom: 0px;
 	position:relative;
 	top: -34px;
-	left: 520px;
+	left: 550px;
 }
 
 #contact-bar:hover{
@@ -251,7 +251,7 @@ a:hover{
 #bar-container{
 	margin-left: auto;
 	margin-right: auto;
-	width: 525px;
+	width: 550px;
 	margin-bottom: 20px;
 	margin-top: 50px;
 }
