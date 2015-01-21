@@ -23,14 +23,11 @@ a:hover{
 
 
 #name-header{
-	font-size: 75px;
-	font-family: 'Josefin Sans', sans-serif;
-	color: #000;
-	margin-top: 100px;
-	margin-bottom: 0px;
+	margin-top: 50px;
+	margin-bottom: 20px;
 	margin-left: auto;
 	margin-right: auto;
-	width: 355px;
+	width: 250px;
 }
 
 
