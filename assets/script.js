@@ -61,6 +61,24 @@ $("#researchprojects-panel").hover(function(){
     $(this).stop().fadeTo(300, 1);
 });
 
+$("#pinterest").hover(function(){
+    $(this).stop().fadeTo(400, 0);
+}, function(){
+    $(this).stop().fadeTo(300, 1);
+});
+
+$("#linkedin").hover(function(){
+    $(this).stop().fadeTo(400, 0);
+}, function(){
+    $(this).stop().fadeTo(300, 1);
+});
+
+$("#github").hover(function(){
+    $(this).stop().fadeTo(400, 0);
+}, function(){
+    $(this).stop().fadeTo(300, 1);
+});
+
 
 
 
