@@ -20,6 +20,9 @@ a:hover{
 	width:100px;
 }
 
+body{
+	background-image: url(images/ps_neutral.png);
+}
 
 
 #name-header{
@@ -62,8 +65,9 @@ a:hover{
 	margin-right: auto;
 	margin-left: auto;
 	width: 834px;
-	height: 500px;
+	height: 100%;
 }
+
 
 #aboutme-image{
 	margin-top: 10px;
@@ -141,18 +145,12 @@ a:hover{
 }
 
 
-
-.title-images{
-
-
-}
-
 #image-container{
 	margin-left: auto;
 	margin-right: auto;
-	/* height: 960px; */
-	height: 300px;
+	height: 100%;
 }
+
 
 #home-button{
 	margin-top: 100px;
@@ -173,9 +171,6 @@ a:hover{
 	margin-left: auto;
 	margin-right: auto;
 	width: 650px;
-	/*
-	background-color: #ccc;
-	*/
 }
 
 
@@ -309,7 +304,6 @@ a:hover{
 	cursor: pointer;
 	top: -190px;
 	left: 100px;
-
 }
 
 #researchprojects-panel{
@@ -329,7 +323,7 @@ a:hover{
 #pastwork-container{
 	margin-left: auto;
 	margin-right: auto;
-	width: 608;
+	width: 608px;
 }
 
 #contact-message{
@@ -426,4 +420,5 @@ a:hover{
 	margin-right: auto;
 	width: 500px;
 }
+
 
