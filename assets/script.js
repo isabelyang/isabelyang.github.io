@@ -31,35 +31,24 @@ $("#home-button").hover(function(){
     $(this).stop().fadeTo(50, 1);
 });
 
-$("#mobileapp-panel").hover(function(){
+$("#cubio").hover(function(){
     $(this).stop().fadeTo(400, 0);
 }, function(){
     $(this).stop().fadeTo(300, 1);
 });
 
-$("#graphicdesign-panel").hover(function(){
+$("#ellustrate").hover(function(){
     $(this).stop().fadeTo(400, 0);
 }, function(){
     $(this).stop().fadeTo(300, 1);
 });
 
-$("#layoutdesign-panel").hover(function(){
+$("#xylophone").hover(function(){
     $(this).stop().fadeTo(400, 0);
 }, function(){
     $(this).stop().fadeTo(300, 1);
 });
 
-$("#websitedesign-panel").hover(function(){
-    $(this).stop().fadeTo(400, 0);
-}, function(){
-    $(this).stop().fadeTo(300, 1);
-});
-
-$("#researchprojects-panel").hover(function(){
-    $(this).stop().fadeTo(400, 0);
-}, function(){
-    $(this).stop().fadeTo(300, 1);
-});
 
 $("#pinterest").hover(function(){
     $(this).stop().fadeTo(400, 0);

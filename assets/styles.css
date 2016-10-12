@@ -35,13 +35,13 @@ body{
 
 
 #subheader{
-	font-size: 30px;
+	font-size: 25px;
 	font-family: 'Josefin Sans', sans-serif;
 	color: #000;
 	/* border-bottom: 5px; */
 	margin-bottom: 5px;
 	margin-left: auto;
-	margin-right: auto;
+	margin-right: 200px;
 	width: 371px;
 }
 
@@ -251,74 +251,49 @@ body{
 	margin-top: 50px;
 }
 
-#mobileapp-panel{
+#cubio{
 	cursor: pointer;
 	position:relative;
-	top: 0px;
+	top: 4px;
 }
 
-#mobileapp-panel2{
+#cubio2{
 	position: relative;
 	cursor: pointer;
-	top: 0px;
+	top: 4px;
 	left: 204px;
 }
 
-#graphicdesign-panel{
+#ellustrate{
 	cursor: pointer;
 	position:relative;
-	top: -204px;
-	left: -4px;
+	top: -200px;
+	left: 8px;
 }
 
-#graphicdesign-panel2{
+#ellustrate2{
 	position: relative;
 	cursor: pointer;
-	left: -412;
+	top: -200px;
+	left: 212px;
 }
 
-#layoutdesign-panel{
+#xylophone{
 	cursor: pointer;
 	position:relative;
-	top: -204px;
-	left: 4px;
+	top: -200px;
+	left: -8px;
 }
 
-#layoutdesign-panel2{
+#xylophone2{
 	position: relative;
 	cursor: pointer;
-	top: -204;
-	left: 208;
+	top: 4;
+	left: -416;
 
 }
 
-#websitedesign-panel{
-	cursor: pointer;
-	position:relative;
-	top: -190px;
-	left: -104px;
-}
 
-#websitedesign-panel2{
-	position: relative;
-	cursor: pointer;
-	top: -190px;
-	left: 100px;
-}
-
-#researchprojects-panel{
-	cursor: pointer;
-	position:relative;
-	top: -394px;
-	left: 309px;
-}
-
-#researchprojects-panel2{
-	position: relative;
-	cursor: pointer;
-	top: -190px;
-	left: -99px;
-}
 
 #pastwork-container{
 	margin-left: auto;
